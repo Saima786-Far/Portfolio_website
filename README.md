@@ -30,6 +30,10 @@ This portfolio website serves as an online resume and portfolio to display my wo
 - CSS3 (with Flexbox and Grid)
 - JavaScript
 - ScrollReveal.js (for scroll animations)
+  
+## View
+![Screenshot 2024-03-06 154506](https://github.com/Saima786-Far/Portfolio_website/assets/84591699/95a1ec76-9cb6-4535-8c63-7daceae017f2)
+
 
 ## Setup
 
