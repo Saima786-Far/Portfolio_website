@@ -1,6 +1,6 @@
 # Saima Farheen's Portfolio
 
-Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and contact information.
+Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website, showcasing my skills, works, and contact information.
 
 ## Table of Contents
 
